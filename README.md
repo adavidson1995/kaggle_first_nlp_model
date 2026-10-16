@@ -1,9 +1,9 @@
-# kaggle_first_nlp_models
+# kaggle_first_nlp_model
 First NLP Kaggle competition, building simple baseline models: Logistic Regression, Naive Bayes, LSTMs, GRUs, and eventually fine-tuning a basic transformer model. 
 
 ## Natural Language Processing with Disaster Tweets
 
-This repository contains my solution and notebook for the Kaggle competition: (Natural Language Processing with Disaster Tweets)[https://www.kaggle.com/c/nlp-getting-started]. 
+This repository contains my solution and notebook for the Kaggle competition: [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started). 
 
 ## Project Goals
 
