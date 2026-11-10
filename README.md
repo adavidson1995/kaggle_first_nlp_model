@@ -5,6 +5,16 @@ First NLP Kaggle competition, building simple baseline models: Logistic Regressi
 
 This repository contains my solution and notebook for the Kaggle competition: [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started). 
 
+## Kaggle Result
+
+**Best Score: 0.78853** 
+
+This was an approximately average result on the leaderboard, rather than a top-performing submission. For this NLP classification project, the main value was learning how to construct, evaluate, and compare different types of models (including Logistic Regression, Naive Bayes, LSTM, and BERT).
+
+View the main Kaggle notebook and submission (Model Comparison)
+
+For a deeper dive into the earlier stages of this project, you can view this companion notebook explaining text preprocessing and how TF-IDF works for NLP.
+
 ## Project Goals
 
 This was my first Kaggle competition for NLP. The primary aim here was to learn and become more comfortable with:
