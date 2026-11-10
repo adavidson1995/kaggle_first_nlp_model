@@ -7,13 +7,13 @@ This repository contains my solution and notebook for the Kaggle competition: [N
 
 ## Kaggle Result
 
-**Best Score: 0.78853** 
+**Best Score: 0.78853**
 
-This was an approximately average result on the leaderboard, rather than a top-performing submission. For this NLP classification project, the main value was learning how to construct, evaluate, and compare different types of models (including Logistic Regression, Naive Bayes, LSTM, and BERT).
+This was an **approximately average result** on the leaderboard, rather than a top-performing submission. For this NLP classification project, the main value was learning how to construct, evaluate, and compare different types of models (including Logistic Regression, Naive Bayes, LSTM, and BERT).
 
-View the main Kaggle notebook and submission (Model Comparison)
+[View the main Kaggle notebook and submission (Model Comparison)](https://www.kaggle.com/code/alexdavidson1995/nlp-disaster-tweets-lr-nb-lstm-bert-comparison)
 
-For a deeper dive into the earlier stages of this project, you can view this companion notebook explaining text preprocessing and how TF-IDF works for NLP.
+For a deeper dive into the earlier stages of this project, you can view this companion notebook explaining text preprocessing and [how TF-IDF works for NLP](https://www.kaggle.com/code/alexdavidson1995/nlp-disaster-tweets-preprocessing-and-tf-idf).
 
 ## Project Goals
 
